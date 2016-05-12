@@ -3,3 +3,7 @@
   width: 25%;
   height: auto;
 }
+
+.center_text {
+  text-align: center;
+}
